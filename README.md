@@ -6,5 +6,7 @@ Nanti setelah buat new branch dan edit, jangan lupa create a pull request
 Kalo ada commit conflict, tolong cb dicek dl.
 Kalo gak yakin sama editannya, info aku.
 
+There are no dumb question. So, don't hesitate to ask!
+
 Reference on using github:
 https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&ab_channel=WebProgrammingUNPAS
